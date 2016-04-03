@@ -1,0 +1,28 @@
+h1, h2, h3 {
+  font-family: Bowlby One; 
+  text-shadow: 3px 3px 2px white;
+  color: #404040;
+}
+
+body {
+  height: 100%;
+  width: 100%;
+  background: url('http://gaaldiid.com/wp-content/uploads/2015/05/EARTH-BACKGROUND.jpg') no-repeat center center fixed;
+  background-size: cover;
+  padding-top: 250px;
+}
+
+#elephant {
+  height: 4%;
+  width: 3%;
+}
+
+.signature {
+  font-family: Garamond;
+  font-size: 15px;
+}
+
+.wi {
+  font-size: 65px;
+  text-shadow: 3px 3px 2px white;
+}
